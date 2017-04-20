@@ -1,0 +1,54 @@
+<svg height="814" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="814" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 16:14:35 +0000    45918 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 16:14:35 +0000     4657 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 16:14:35 +0000      938 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 16:14:35 +0000     4237 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 16:14:35 +0000     1096 bytes  LICENSE.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 16:14:35 +0000     1700 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 16:14:35 +0000     2200 bytes  docs/addtextdomain.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 16:14:35 +0000      927 bytes  docs/examples/custom-working-directory.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 16:14:35 +0000     1694 bytes  docs/examples/remove-package-metadata.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 16:14:35 +0000     6124 bytes  docs/makepot.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 16:14:35 +0000      896 bytes  package.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 16:14:35 +0000      937 bytes  tasks/add-textdomain.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 16:14:35 +0000     1322 bytes  tasks/makepot.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 16:14:35 +0000     2216 bytes  test/add-textdomain_test.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 16:14:35 +0000       45 bytes  test/fixtures/basic-plugin/basic-plugin.php</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 16:14:35 +0000       98 bytes  test/fixtures/basic-theme/exclude/file.php</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 16:14:35 +0000       43 bytes  test/fixtures/basic-theme/page-templates/full-wi\</tspan>
+<tspan x="10" y="298">dth.php</tspan>
+<tspan x="10" y="314"> 17.  2017-04-20 16:14:35 +0000       37 bytes  test/fixtures/basic-theme/style.css</tspan>
+<tspan x="10" y="330"> 18.  2017-04-20 16:14:35 +0000       45 bytes  test/fixtures/common-pot-headers/common-pot-head\</tspan>
+<tspan x="10" y="346">ers.php</tspan>
+<tspan x="10" y="362"> 19.  2017-04-20 16:14:35 +0000       45 bytes  test/fixtures/different-slugs/plugin.php</tspan>
+<tspan x="10" y="378"> 20.  2017-04-20 16:14:35 +0000      606 bytes  test/fixtures/msg-merge-no-merge/msg-merge-no-me\</tspan>
+<tspan x="10" y="394">rge-en_GB.po</tspan>
+<tspan x="10" y="410"> 21.  2017-04-20 16:14:35 +0000      604 bytes  test/fixtures/msg-merge-no-merge/msg-merge-no-me\</tspan>
+<tspan x="10" y="426">rge-nl_NL.po</tspan>
+<tspan x="10" y="442"> 22.  2017-04-20 16:14:35 +0000       35 bytes  test/fixtures/msg-merge-no-merge/msg-merge-no-me\</tspan>
+<tspan x="10" y="458">rge.php</tspan>
+<tspan x="10" y="474"> 23.  2017-04-20 16:14:35 +0000      600 bytes  test/fixtures/msg-merge-no-merge/msg-merge-no-me\</tspan>
+<tspan x="10" y="490">rge.pot</tspan>
+<tspan x="10" y="506"> 24.  2017-04-20 16:14:35 +0000      621 bytes  test/fixtures/msg-merge-theme/en_GB.po</tspan>
+<tspan x="10" y="522"> 25.  2017-04-20 16:14:35 +0000      613 bytes  test/fixtures/msg-merge-theme/msg-merge-theme.po\</tspan>
+<tspan x="10" y="538">t</tspan>
+<tspan x="10" y="554"> 26.  2017-04-20 16:14:35 +0000       31 bytes  test/fixtures/msg-merge-theme/style.css</tspan>
+<tspan x="10" y="570"> 27.  2017-04-20 16:14:35 +0000      606 bytes  test/fixtures/msg-merge/msg-merge-en_GB.po</tspan>
+<tspan x="10" y="586"> 28.  2017-04-20 16:14:35 +0000      604 bytes  test/fixtures/msg-merge/msg-merge-nl_NL.po</tspan>
+<tspan x="10" y="602"> 29.  2017-04-20 16:14:35 +0000       36 bytes  test/fixtures/msg-merge/msg-merge.php</tspan>
+<tspan x="10" y="618"> 30.  2017-04-20 16:14:35 +0000      600 bytes  test/fixtures/msg-merge/msg-merge.pot</tspan>
+<tspan x="10" y="634"> 31.  2017-04-20 16:14:35 +0000      103 bytes  test/fixtures/plugin-headers/plugin-headers.php</tspan>
+<tspan x="10" y="650"> 32.  2017-04-20 16:14:35 +0000       41 bytes  test/fixtures/plugin-include/include/file.php</tspan>
+<tspan x="10" y="666"> 33.  2017-04-20 16:14:35 +0000       81 bytes  test/fixtures/plugin-include/plugin-include.php</tspan>
+<tspan x="10" y="682"> 34.  2017-04-20 16:14:35 +0000       22 bytes  test/fixtures/text-domains/add-domain.php</tspan>
+<tspan x="10" y="698"> 35.  2017-04-20 16:14:35 +0000      368 bytes  test/fixtures/text-domains/update-all-domains.ph\</tspan>
+<tspan x="10" y="714">p</tspan>
+<tspan x="10" y="730"> 36.  2017-04-20 16:14:35 +0000       75 bytes  test/fixtures/text-domains/update-domains.php</tspan>
+<tspan x="10" y="746"> 37.  2017-04-20 16:14:35 +0000       37 bytes  test/fixtures/theme-headers/style.css</tspan>
+<tspan x="10" y="762"> 38.  2017-04-20 16:14:35 +0000      193 bytes  test/fixtures/translator-comments/translator-com\</tspan>
+<tspan x="10" y="778">ments.php</tspan>
+<tspan x="10" y="794"> 39.  2017-04-20 16:14:35 +0000    10785 bytes  test/makepot_test.js</tspan>
+</text>
+</svg>
